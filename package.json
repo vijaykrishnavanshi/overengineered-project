@@ -4,6 +4,7 @@
   "description": "This project is an attempt to overengineer what ever possible in this project",
   "main": "server.js",
   "scripts": {
+    "deps": "docker-compose -f docker-compose/docker-compose.yml up",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

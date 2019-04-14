@@ -1,0 +1,26 @@
+{
+  "name": "overengineered-project",
+  "version": "10.1230.1",
+  "description": "This project is an attempt to overengineer what ever possible in this project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaykrishnavanshi/overengineered-project.git"
+  },
+  "keywords": [
+    "overenginnered",
+    "software-development",
+    "apache",
+    "kafka",
+    "cassandra"
+  ],
+  "author": "Vijay Krishnavanshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaykrishnavanshi/overengineered-project/issues"
+  },
+  "homepage": "https://github.com/vijaykrishnavanshi/overengineered-project#readme"
+}
